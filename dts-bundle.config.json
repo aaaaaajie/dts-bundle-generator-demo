@@ -1,0 +1,12 @@
+{
+    "compilationOptions": {
+        "followSymlinks": true,
+        "preferredConfigPath": "./tsconfig.json"
+    },
+    "entries": [
+        {
+            "filePath": "./kernel/index.ts",
+            "outFile": "./dist/kernel/index.d.ts"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "dts-bundle-generator-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaaaaajie/dts-bundle-generator-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaaaaajie/dts-bundle-generator-demo/issues"
+  },
+  "homepage": "https://github.com/aaaaaajie/dts-bundle-generator-demo#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.172",
+    "lodash": "^4.17.21"
+  }
+}
